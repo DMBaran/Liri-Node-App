@@ -1,3 +1,1 @@
 # Liri-Node-App
-
-bam
