@@ -11,6 +11,7 @@
 * Cd into the repository (Liri-Node-App) you just cloned.
 
 * Once you're in the repository you'll need to install 3 node packages.  
+    
     * write __*npm install twitter*__ in your command line.
     * write __*npm install dotenv --save*__ in your command line.
     * write __*npm install --save node-spotify-api*__ in your command line.
@@ -45,6 +46,7 @@ TWITTER_ACCESS_TOKEN_SECRET=your-twitter-access-token-secret
 * Once you've reached this point open your command line and cd into your Liri-Node-App.
 
 * on your command line type __*node liri.js*__ and one of the following.
+    
     * my-tweets __*@name*__ for your twitter.
     * movie-this __*any movie name*__.
     * spotify-this-song __*song name*__.
