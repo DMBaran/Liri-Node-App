@@ -1,6 +1,6 @@
 # Liri-Node-App
 
-* Go to [GitHub](https://github.com/DMBaran/Liri-Node-App).
+* In a new tab go to [GitHub](https://github.com/DMBaran/Liri-Node-App).
 
 * Click on the (clone or download) button.
 
