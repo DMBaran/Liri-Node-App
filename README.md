@@ -49,14 +49,14 @@ TWITTER_ACCESS_TOKEN_SECRET=your-twitter-access-token-secret
     
     * my-tweets __*@name*__ for your twitter.
         
-        Example: my-tweets D3vinMB
+        _Example: my-tweets D3vinMB_
     
     
     * movie-this __*any movie name*__.
         
-        Example: movie-this "Iron Man" 
+        _Example: movie-this "Iron Man"_ 
     
     
     * spotify-this-song __*song name*__.
         
-        Example: spotify-this-song "God's Plan"
+        _Example: spotify-this-song "God's Plan"_
