@@ -48,10 +48,15 @@ TWITTER_ACCESS_TOKEN_SECRET=your-twitter-access-token-secret
 * on your command line type __*node liri.js*__ and one of the following.
     
     * my-tweets __*@name*__ for your twitter.
+        
         Example: my-tweets D3vinMB
     
+    
     * movie-this __*any movie name*__.
+        
         Example: movie-this "Iron Man" 
     
+    
     * spotify-this-song __*song name*__.
+        
         Example: spotify-this-song "God's Plan"
