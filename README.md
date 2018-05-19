@@ -6,7 +6,7 @@
 
 * Open your Terminal/Bash window and __*cd*__ (change directory) to your desktop.
 
-* type __*git*__ clone and then paste the url.
+* type __*git clone*__ and then paste the url.
 
 * Cd into the repository (Liri-Node-App) you just cloned.
 
