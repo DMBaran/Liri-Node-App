@@ -18,7 +18,7 @@
 
 * Create a __.env__ file in your reposity.
 
-* Open your .env file and copy this into your file.
+* Open your __.env__ file and copy this into your file.
 
 # Spotify API keys
 
@@ -43,10 +43,15 @@ TWITTER_ACCESS_TOKEN_SECRET=your-twitter-access-token-secret
     __(your-access-token-key)__ and __(your-twitter-access-token-secret)__ with your
     Twitter API keys.
 
-* Once you've reached this point open your command line and cd into your Liri-Node-App.
+* Once you've reached this point open your command line and __*cd*__ into your Liri-Node-App.
 
 * on your command line type __*node liri.js*__ and one of the following.
     
     * my-tweets __*@name*__ for your twitter.
+        Example: my-tweets D3vinMB
+    
     * movie-this __*any movie name*__.
+        Example: movie-this "Iron Man" 
+    
     * spotify-this-song __*song name*__.
+        Example: spotify-this-song "God's Plan"
