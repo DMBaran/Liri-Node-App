@@ -5,7 +5,6 @@ var keys = require('./keys');
 var request = require('request');
 var arg1 = process.argv[2];
 var arg2 = process.argv[3];
-var request = require('request');
 var spotify = new Spotify(keys.spotify);
 var client = new Twitter(keys.twitter);
 
